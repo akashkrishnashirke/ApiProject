@@ -10,4 +10,4 @@ urlpatterns = [
 ]
 
 
-
+a = "C:\Users\hp.DESKTOP-DLDJ669\PycharmProjects\pythonProject"
